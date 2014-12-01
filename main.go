@@ -22,4 +22,3 @@ Sorry, we won't move it again :)
     `)
 	os.Exit(1)
 }
-su
