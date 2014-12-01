@@ -10,8 +10,8 @@ func main() {
 
 Run this:
 
-  cd .. ; rm -r $GOPATH/src/github.com/metabition/genny ; rm $GOPATH/bin/genny ; go get github.com/cheekybits/genny
-  
+  cd .. ; rm -rf $GOPATH/src/github.com/metabition/genny ; rm $GOPATH/bin/genny ; go get github.com/cheekybits/genny
+
 Or do this:
 
   1. Delete $GOPATH/src/github.com/metabition/genny
