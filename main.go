@@ -10,7 +10,7 @@ func main() {
 
 Run this:
 
-  cd .. ; rm -rf $GOPATH/src/github.com/metabition/genny ; rm $GOPATH/bin/genny ; go get github.com/cheekybits/genny
+  cd .. ; rm -rf $GOPATH/src/github.com/metabition/genny ; rm $GOPATH/bin/genny ; go get github.com/cheekybits/genny ; cd $GOPATH/src/github.com/cheekybits/genny ; pwd
 
 Or do this:
 
